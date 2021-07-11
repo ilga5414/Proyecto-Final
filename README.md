@@ -15,11 +15,11 @@ I thought it could be interesting to find out the 'trendiness' of a recipe. How 
 ### OBJECTIF: Based on the ingredients you have at home, propose multiple recepies you could make and the 'trendiness' of each one of them.
 
 # 
-Entregables:
+Deliverables:
 * 
 
 # 
 
-Links y recursos:
+Links and ressources:
 * 
 
