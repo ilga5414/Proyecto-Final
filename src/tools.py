@@ -69,7 +69,7 @@ def buscarrecetas(ingredientes, df):
             if dfencontradas.loc[i, 'Trendy Score'] == 0:                
                 dfencontradas.loc[i, 'País'] = ''
             else:
-                dfencontradas.loc[i, 'País'] = "This is trendy in " + dftrendy.index[0]                
+                dfencontradas.loc[i, 'País'] = "Trendy in " + dftrendy.index[0]                
         #Filtramos los resultados para que sólo nos muestre aquellas recetas que tengan un Trendy Score mayor que 0.
         #if len(dfencontradas[dfencontradas['Trendy Score']>0]) > 0:
          #   dfencontradas = dfencontradas[dfencontradas['Trendy Score']>0].sort_values(by='Trendy Score', axis=0, ascending=False)           

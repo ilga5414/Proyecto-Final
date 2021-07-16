@@ -4,7 +4,7 @@
 
 Soy la clase de persona que acude a internet a diario en busca de inspiración en la cocina. Me canso al poco tiempo de los mismos platos y al mismo tiempo mi imaginación es limitada. Siempre surge la misma pregunta: ¿qué puedo hacer con lo que tengo en casa? Asique este proyecto pretende responder a mis propias necesidades.  
 
-Por otro lado, me encanta utilizar GoogleTrends, una herramienta de google que aporta información sobre la tendencia de una busqueda en internet. Y no se puede negar que ultimamente, la comida es un tema muy 'trendy', sobretodo en redes sociales. Me parece muy interesante como ciertas recetas 'se ponen de moda' asique pensé en incluirlo en mi proyecto.
+Por otro lado, me encanta utilizar GoogleTrends, una herramienta de google que aporta información sobre la tendencia de una busqueda en internet. Y no se puede negar que ultimamente, la comida es un tema muy 'trendy', sobretodo en redes sociales. Me parece muy interesante como ciertas recetas 'se ponen de moda' asique pensé en incluirlo en mi proyecto.   
 
 ![Foto me las doy de pro](pics/canal-gastronomia_11_1280x644.jpeg)
 

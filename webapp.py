@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from pytrends.request import TrendReq
 import streamlit as st
-import manage_data.functions as md
+import src.tools as srct
 
 st.sidebar.title('Selecciona tus ingredientes favoritos!')
 df = pd.read_csv('data/recetasfaciles.csv')
@@ -40,7 +40,7 @@ if st.sidebar.button('Añadir ingrediente a mi lista'):
     st.write(dfmilista)
 
 if st.sidebar.button('Buscar recetas con estos ingredientes'):
-    dfencontradas = md.buscarrecetas(dfmilista['Mi lista'].unique(), df)
+    dfencontradas = srct.buscarrecetas(dfmilista['Mi lista'].unique(), df)
 
     
 if st.sidebar.button('Resetear mi lista de ingredientes'):
