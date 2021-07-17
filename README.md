@@ -9,7 +9,7 @@ Por otro lado, me encanta utilizar GoogleTrends, una herramienta de google que a
 ![Foto me las doy de pro](pics/canal-gastronomia_11_1280x644.jpeg)
 
 
-### OBJECTIVO: Crear una aplicación web que, en base a los ingredientes disponibles, sea capaz de proponerte recetas que contengan esos ingredientes. Las recetas aparecerán ordenadas por su orden de tendencia. También se aportará la ubicación global donde se concentra la tendencia en busquedas.
+### OBJECTIVO: Crear una aplicación web que, en base a los ingredientes disponibles, sea capaz de proponerte recetas que contengan esos ingredientes. Las recetas aparecerán ordenadas por su orden de tendencia. También se aportará la ubicación global de dónde se concentra la tendencia en busquedas.
 
 #
 Proceso:  
